@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BooksLib</string>
+    <string name="username">Delvia Lanasemba</string>
+    <string name="email">delvia.lana07@gmail.com</string>
+    <string name="univ">Universitas Muhammadiyah Sukabumi</string>
+    <string name="book_description">Book Description</string>
+    <string name="detail">Detail</string>
+    <string name="pages">Pages</string>
+    <string name="publisher">Publisher</string>
+    <string name="isbn">ISBN</string>
+</resources>
