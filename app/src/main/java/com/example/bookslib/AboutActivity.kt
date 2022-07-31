@@ -12,7 +12,7 @@ class AboutActivity : AppCompatActivity() {
         setContentView(R.layout.activity_about)
 
         val profileImg: ImageView = findViewById(R.id.profileImg)
-        val pImg = R.drawable.book1
+        val pImg = R.drawable.cant_hurt
 
         Glide.with(this)
             .load(pImg)
